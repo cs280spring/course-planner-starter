@@ -9,4 +9,4 @@ GITHUB_REPO=
 NETLIFY_SITE=
 ```
 
-Please refer to the description of Homework-5, Full-Stack JavaScript (Fall 2021) for details.
+Please refer to the description of Homework-4, Full-Stack JavaScript (Spring 2022) for details.
